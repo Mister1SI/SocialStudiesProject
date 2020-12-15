@@ -1,0 +1,21 @@
+header {
+    width:100%;
+    background-color:#222222;
+    color:white;
+    padding:15px;
+}
+.hhead {
+    display: inline;
+    collor:white;
+    padding:10px;
+}
+.hlink {
+    display: inline;
+    color:white;
+    padding:10px;
+    text-decoration: none;
+}
+#stories {
+    background-color:#333333;
+    padding:10px;
+}
